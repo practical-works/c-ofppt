@@ -1,0 +1,5 @@
+1234 Biscuit_Delicieux 5.000000
+1235 PC_Portable_HP 5000.000000
+1236 Mirroir 12.000000
+1237 Marteau 1700.000000 
+1238 Gateau_au_chocolat 55.000000
